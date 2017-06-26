@@ -1,0 +1,45 @@
+.jumbotron {
+	background-color: #a1b8e2;
+}
+
+.jumbotron h1 {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+}
+
+.inputHeader {
+	display: block;
+  margin : 0 auto;
+  text-align: center;
+}
+
+p {
+	font-family: "Roboto", sans-serif;
+	font-size: 150%;
+}
+
+.intro {
+	width: 90%;
+	display: block;
+	margin: 0 auto;
+}
+
+.introImages {
+	margin: 0 auto;
+	width: 80%;
+	text-align: center;
+}
+
+.intro2 {
+	width: 90%;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.container_footer {
+  width: 1100px;
+  margin: 0 auto;
+}
